@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f1f1f1;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+#contenedor{
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(40, 124, 54);
+    border-radius: 20px;
+    padding: 20px;
+}
